@@ -1,13 +1,13 @@
 # Hi, I'm Emre KOCAK 😊
 **iOS Developer & Electrical and Electronics Engineer** <br/>
 <br/>
-## Connect with me:
+## 🔗Connect with me:
 [<img align="left" alt="Emre-Kocak | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 <br/>
-## Languages:
+## 👨🏻‍💻Languages:
 [<img align="left" alt="Emre-Kocak | Swift" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/swift.svg" />][swift]
 <br/>
-## About me:
+## 🙋‍♂️About me:
 
 * 🌱 I’m currently learning iOS Development.
 
