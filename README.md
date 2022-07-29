@@ -1,4 +1,4 @@
-# Hi, I'm Emre KOCAK 😊
+# Hi 👋, I'm Emre 😊
 **iOS Developer & Electrical and Electronics Engineer** <br/>
 <br/>
 ## 🔗Connect with me:
