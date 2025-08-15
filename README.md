@@ -1,20 +1,28 @@
-<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="55px">, I'm Emre! 😊 </h1>
-<h3 align="center">iOS Developer & Electrical and Electronics Engineer 🖥📲</h3>
+<h1 align="center"> Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="55px">, I’m Emre 😊 </h1>
+<h2 align="center">iOS Developer & Electrical & Electronics Engineer 🧑🏻‍💻 </h2>
 
 <img align='right' src="https://user-images.githubusercontent.com/74038190/212281780-0afd9616-8310-46e9-a898-c4f5269f1387.gif" width='350"'>
 
-- 🔭 I’m currently learning **iOS Development.**
+**I build reliable, user-focused iOS applications using Swift, UIKit/SwiftUI, and modern architectural patterns. I care about clean code, testability, and performance, and I’m continuously improving my craft through real-world projects and technical writing.**
 
-- 🕵️‍♂️ I’m currently learning everything 🔎
 
-- 📝 I write articles on [medium]
+<h3 align="leading">About </h3>
 
-- 📫 How to reach me:  **m.emrekocakk@gmail.com**
+- 📱 Currently advancing my expertise in Swift Concurrency (async/await), SwiftUI, and modular architectures.
+- 📬 Reach me at m.emrekocakk@gmail.com.
+- 🌍 I enjoy coding, traveling, and spending time with animals.
+  
+<h3 align="leading">Core Skills </h3>
 
-- 👨🏻‍💻 **Alamofaire, Api, Firebase, Viper, MVVM, MVC...** I know more than what can be learned from a training series.
+ - **Architectures:** MVVM, VIPER, MVC
+ - **UI:** UIKit, SwiftUI, Auto Layout, SnapKit
+ - **Networking:** URLSession, Alamofire, Codable, async/await
+ - **Data:** Core Data, caching, persistence
+ - **Firebase:** Analytics, Messaging (Push), Crashlytics, Remote Config
+ - **Quality:** XCTest, XCUITest, dependency injection, SOLID, code review
+ - **CI/CD & Tools:** Xcode, Git, Fastlane, Postman, GitHub
 
-- ⚡️ Fun fact: I love to animals, Coding, Traveling
-
+ 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/kocakemre/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kocakemre" height="30" width="40" /></a>
